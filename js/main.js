@@ -1,5 +1,3 @@
-let name = prompt(`What's your name?`);
-
 do {
   name = prompt(`What's your name?`);
   console.log(name);
